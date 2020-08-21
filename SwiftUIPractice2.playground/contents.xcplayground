@@ -6,5 +6,6 @@
         <page name='practice_81p_Stack'/>
         <page name='practice_91p_Spacer'/>
         <page name='95p_MultipleStack'/>
+        <page name='100p_OverlayAndBackground'/>
     </pages>
 </playground>
